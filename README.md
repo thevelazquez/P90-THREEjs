@@ -3,6 +3,7 @@
 Model and texture made by: Kearns Claugherty
 
 I simply put together a THREE.js document to display the model
+
 See tutorial at http://edsvel.com/Game/P90.htm
 
 ###Running `P90.htm`
